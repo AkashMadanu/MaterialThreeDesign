@@ -61,7 +61,7 @@ class MainActivity : ComponentActivity()
         
                         LazyColumn(contentPadding = values){
                             items(20){
-                                ImageCard(title = "Bacon Ipsum", description = "Bacon ipsum dolor amet tri-tip andouille kielbasa pastrami shoulder. Filet mignon tail porchetta buffalo meatball. Tongue ground round filet mignon turkey, drumstick pork chop brisket tri-tip leberkas meatball jerky bresaola pork loin. Prosciutto ball tip turkey salami pig alcatra swine tail pastrami t-bone. Burgdoggen bresaola tongue short ribs, jowl strip steak boudin fatback pork chop hamburger. Tail beef ribs beef ham ham hock jowl meatloaf pork capicola.", modifier = Modifier.padding(16.dp) )
+                                ImageCard(title = "Bacon Ipsum", description = "Bacon ipsum dolor amet tri-tip ratatouille kielbasa pastrami shoulder. Filet mignon tail porchetta buffalo meatball. Tongue ground round filet mignon turkey, drumstick pork chop brisket tri-tip leberkas meatball jerky bresaola pork loin. Prosciutto ball tip turkey salami pig alcatra swine tail pastrami t-bone. Burgdoggen bresaola tongue short ribs, jowl strip steak boudin fatback pork chop hamburger. Tail beef ribs beef ham ham hock jowl meatloaf pork capicola.", modifier = Modifier.padding(16.dp) )
                 
                             }
                         }
